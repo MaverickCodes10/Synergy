@@ -26,7 +26,7 @@ import MKTypography from "components/MKTypography";
 function ExampleCard({ image, name, count, pro, ...rest }) {
   const imageTemplate = (
     <MKBox
-      bgColor="white"
+      bgColor="#07001D"
       borderRadius="xl"
       shadow="lg"
       minHeight="10rem"

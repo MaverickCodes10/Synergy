@@ -54,7 +54,7 @@ function Presentation() {
         action={{
           type: "external",
           route: "https://www.creative-tim.com/product/material-kit-react",
-          label: "free download",
+          label: "Schedule an Appointment",
           color: "info",
         }}
         sticky
@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              Synergy{" "}
             </MKTypography>
             <MKTypography
               variant="body1"

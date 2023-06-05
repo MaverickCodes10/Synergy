@@ -21,11 +21,11 @@ Coded by www.creative-tim.com
 
 export default {
   background: {
-    default: "#f0f2f5",
+    default: "#068A9E",
   },
 
   text: {
-    main: "#7b809a",
+    main: "#07001D",
     focus: "#7b809a",
   },
 
@@ -34,7 +34,7 @@ export default {
   },
 
   white: {
-    main: "#ffffff",
+    main: "#FDEEC2",
     focus: "#ffffff",
   },
 
@@ -45,13 +45,13 @@ export default {
   },
 
   primary: {
-    main: "#e91e63",
-    focus: "#e91e63",
+    main: "#07001D",
+    focus: "#07001D",
   },
 
   secondary: {
-    main: "#7b809a",
-    focus: "#8f93a9",
+    main: "#951657",
+    focus: "#951657",
   },
 
   info: {
@@ -70,7 +70,7 @@ export default {
   },
 
   error: {
-    main: "#F44335",
+    main: "#951657",
     focus: "#f65f53",
   },
 
@@ -80,8 +80,8 @@ export default {
   },
 
   dark: {
-    main: "#344767",
-    focus: "#2c3c58",
+    main: "#07001D",
+    focus: "#07001D",
   },
 
   grey: {
@@ -98,7 +98,7 @@ export default {
 
   gradients: {
     primary: {
-      main: "#EC407A",
+      main: "#951657",
       state: "#D81B60",
     },
 
@@ -133,8 +133,8 @@ export default {
     },
 
     dark: {
-      main: "#42424a",
-      state: "#191919",
+      main: "#07001D",
+      state: "#951657",
     },
   },
 

@@ -86,5 +86,4 @@ function Featuring() {
     </MKBox>
   );
 }
-
 export default Featuring;
